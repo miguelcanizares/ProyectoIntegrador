@@ -1,0 +1,2 @@
+DRIVER=org.squilite.JDBC
+URL=jdbc:sqlite:db/Progralingo.db
